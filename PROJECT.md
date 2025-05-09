@@ -1,6 +1,6 @@
-# Magic 8 Ball Flutter - Project 2
+# Magic 8 Ball Flutter - Project 4
 
-This is the second project of the Flutter course. The goal is to reinforce concepts learned in the first project and practice building interactive apps using Flutter widgets.
+This is the fourth project of the Flutter course. The goal is to reinforce concepts learned in the previous projects and practice building interactive apps using Flutter widgets.
 
 ## Project Overview
 - **Name:** Magic 8 Ball
@@ -18,5 +18,5 @@ This app simulates a Magic 8 Ball toy. Ask any question, tap the ball, and get a
 - State management
 - UI layout and interactivity
 
-## Previous Project
-The first project was a Dicee app, which introduced basic Flutter concepts. This project builds on that foundation.
+## Previous Projects
+The first three projects introduced basic Flutter concepts and UI interactivity. This project builds on that foundation.
