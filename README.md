@@ -2,9 +2,9 @@
 
 # Magic 8 Ball 🎱
 
-## Project 2 of Flutter Course
+## Project 4 of Flutter Course
 
-This is the second project of the Flutter course. The goal is to reinforce concepts learned in the first project (Dicee app) and practice building interactive apps using Flutter widgets.
+This is the fourth project of the Flutter course. The goal is to reinforce concepts learned in the previous projects and practice building interactive apps using Flutter widgets.
 
 ---
 
