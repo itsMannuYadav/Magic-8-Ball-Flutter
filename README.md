@@ -4,17 +4,17 @@
 
 ## Project 4 of Flutter Course
 
-This is the fourth project of the Flutter course. The goal is to reinforce concepts learned in the previous projects and practice building interactive apps using Flutter widgets.
+This is my fourth project of the Flutter course. The goal was to reinforce concepts learned in my previous projects and practice building interactive apps using Flutter widgets.
 
 ---
 
-## Our Goal
+## My Goal
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+The objective of this challenge was to solidify what I learned in the Dicee tutorial. This app guided me through the steps required to build an 8 ball app and I applied what I learned about Stateless and Stateful Flutter widgets.
 
-## What you will create
+## What I Created
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+I made a magical 8 ball app that gives answers to all the tricky questions in life. You can make the ball change at the press of a button.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
